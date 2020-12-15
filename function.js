@@ -33,5 +33,5 @@ showAlert();
      console.log(sum(4,6));
     
 
-     // or var result = sum(5,6);
+     // or var result = sum(5,6); 
     // console.log(result);  
