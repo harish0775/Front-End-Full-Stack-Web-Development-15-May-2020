@@ -30,8 +30,8 @@ showAlert();
     function sum(a,b){
         return a +b;
      } 
-     console.log(sum(4,6));
+     console.log(sum(4,6)); 
     
 
      // or var result = sum(5,6); 
-    // console.log(result);  
+    // console.log(result); 
